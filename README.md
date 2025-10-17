@@ -1,4 +1,4 @@
-👑 King’s Castle – Loja de Jogos de Tabuleiro
+# 👑 King’s Castle – Loja de Jogos de Tabuleiro
 
 O King’s Castle é uma loja virtual fictícia desenvolvida para simular um sistema de vendas de jogos de tabuleiro, unindo entretenimento, estratégia e nostalgia em uma experiência digital envolvente.
 O projeto foi criado com foco em design temático, usabilidade e organização clara de produtos, demonstrando habilidades em desenvolvimento front-end e experiência do usuário (UX/UI).
